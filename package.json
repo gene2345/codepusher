@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ccxt": "^4.2.49",
+    "firebase": "^10.8.0",
+    "http-proxy-agent": "^7.0.2",
+    "vue-router": "^4.3.0"
+  }
+}
